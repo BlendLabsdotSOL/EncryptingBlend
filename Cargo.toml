@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "gateway",
+    "programs/private_settlement"
+]
+
+[profile.release]
+overflow-checks = true
+lto = true
+codegen-units = 1
+strip = true
