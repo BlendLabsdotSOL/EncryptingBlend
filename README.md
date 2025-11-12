@@ -19,7 +19,7 @@ EncryptingBlend is a privacy-preserving payment gateway that fuses **x402 HTTP-n
 | Protocol    | [x402](https://docs.cdp.coinbase.com/x402/docs/welcome) |
 | Chain       | Solana |
 | Privacy     | [Elusiv](https://elusiv.io) |
-| Backend     | Node.js + Express + TypeScript |
+| Backend     | Node.js + TypeScript |
 | Monitoring  | Solana Web3.js + WebSocket |
 
 ---
