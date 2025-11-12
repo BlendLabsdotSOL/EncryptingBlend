@@ -1,0 +1,16 @@
+[package]
+name = "x402-private-gateway"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4.5"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+dotenvy = "0.15"
+elusiv = { git = "https://github.com/elusiv-privacy/elusiv", rev = "main" }
+solana-sdk = "1.18"
+solana-client = "1.18"
+bs58 = "0.5"
+uuid = { version = "1.7", features = ["v4"] }
+tokio = { version = "1.0", features = ["full"] }
