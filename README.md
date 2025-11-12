@@ -1,5 +1,5 @@
 # EncryptingBlend
-cryptingBlend is a privacy-preserving payment gateway that fuses **x402 HTTP-native payments** with **Solana privacy infrastructure** such as **Elusiv**, **Light Protocol**, and **Confidential Balances**. 
+EncryptingBlend is a privacy-preserving payment gateway that fuses **x402 HTTP-native payments** with **Solana privacy infrastructure** such as **Elusiv**, **Light Protocol**, and **Confidential Balances**. 
 
 ## Features
 
